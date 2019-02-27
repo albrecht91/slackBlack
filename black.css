@@ -1383,7 +1383,7 @@ ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, 
 
 ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
-.inline_color_block { border-color: #771313; }
+.inline_color_block { border-color: #545454; }
 
 .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider { background: #222; }
 
