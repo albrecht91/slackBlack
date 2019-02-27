@@ -1377,13 +1377,13 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .post_body .message { background-color: #e6e6e6; }
 
-.post_body code, .post_body pre { background: #770d0d; }
+.post_body code, .post_body pre { background: #363636; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #949494; }
 
 ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
-.inline_color_block { border-color: #545454; }
+.inline_color_block { border-color: #771313; }
 
 .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider { background: #222; }
 
