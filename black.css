@@ -1377,7 +1377,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .post_body .message { background-color: #e6e6e6; }
 
-.post_body code, .post_body pre { background: #363636; }
+.post_body code, .post_body pre { background: #770d0d; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #949494; }
 
